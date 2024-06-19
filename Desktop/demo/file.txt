@@ -1,3 +1,2 @@
 this is my first git practice notes
 adding containte
-adding 3 rd line
